@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlbumsApp</string>
+    <string name="fragment_albums_list_title">Top Music Albums</string>
+    <string name="fragment_album_webview_title">iTunes</string>
+    <string name="fragment_album_error_title">Error</string>
+    <string name="album_thumbnail_content_description">Image showing the album cover</string>
+    <string name="network_error_message">There was an error and albums could not be loaded at this moment</string>
+    <string name="network_error_try_again_btn">Try Again</string>
+    <string name="go_to_itunes_btn">Go To iTunes</string>
+    <string name="genre_year">%s - %d</string>
+</resources>
